@@ -1,17 +1,27 @@
-# **Assignment Title**  
+# **Divider**  
 
 ## **Assignment Description**  
-
+Create a mothd called divider() that returns the quotient of a given int x and a given int y.
 
 ## **Examples**  
->
+>divider(10,2)  
+5
+
+>divider(100, 4)  
+25
+
+>divider(5, 4)  
+1.25
 
 ## **Limitations**  
+1 method
 
 ## **Hints**  
+The keyboard symbol for divide is /  
+integers are whole numbers, floats are decimal numbers
 
 ## **Concepts**  
-
+Methods, int, float, operations
 
 ---
 
