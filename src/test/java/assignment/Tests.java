@@ -17,7 +17,7 @@ public class Tests {
    @Test
    public void code(){
        App.main(null);
-       assertEquals(10, App.divider(20, 2), "Code Failed");
+       assertEquals(10.0, App.divider(20, 2), "Code Failed");
        assertEquals(1.5, App.divider(3, 2), "Code Failed");
    }
 
